@@ -33,7 +33,7 @@ void Get_knot(string type_of_function, const int k, const int n)
 		}
 	}
 	cout << "knot = " << endl;
-	cout << "Ðàçìåð ìàññèâà knot = " << sizeof(knot) << endl;
+	cout << "ÃÃ Ã§Ã¬Ã¥Ã° Ã¬Ã Ã±Ã±Ã¨Ã¢Ã  knot = " << sizeof(knot) << endl;
 }
 
 void Solve()
